@@ -1,0 +1,275 @@
+body{
+    background-color: rgba(108, 109, 107, 0.253);
+}
+
+.heading{
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 3, 75);
+    border-radius: 5px;
+}
+.nav-bg{
+    
+    background-color: rgb(92, 187, 231);
+    height:35px;
+    margin-top:-15px;
+    
+}
+
+.details{
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: -7px;
+    background-color: burlywood;
+    height: 500px;
+    width: 500px;
+}
+.cal-details{
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-top: -7px;
+    background-color: burlywood;
+    height: 300px;
+    width: 300px;
+}
+
+.about-photo img{
+    border-radius: 15px;
+
+    height: 500px;
+    width: 600px;
+    float: right;
+    margin-right: 150px;
+}
+.mission{
+    border-radius: 15px;
+
+    margin-left: 200px;
+    margin-top: -7px;
+    background-color: rgb(216, 167, 167);
+    height: 500px;
+    width: 500px;
+}
+.vision {
+    border-radius: 15px;
+    
+    float: right;
+    margin-right: 250px;
+    margin-top: -500px;
+    background-color: rgb(216, 167, 167);
+    height: 500px;
+    width: 500px;
+}
+.class{
+    border-radius: 15px;
+    margin-left: 450px;
+    margin-top: -7px;
+    background-color: rgb(216, 167, 167);
+    height: 420px;
+    width: 720px;
+
+}
+.facilities{
+
+    margin-left: 110px;
+}
+.fc-root{
+    border-radius: 15px;
+    margin-left: 110px;
+    margin-top: -7px;
+    margin-bottom: 5px;
+    background-color: aquamarine;
+    height: 300px;
+    width: 1290px;
+
+}
+
+.fc-text1{
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: -17px;
+    margin-bottom: 15px;
+    background-color: rgb(204, 31, 31);
+    height: 300px;
+    width: 320px;
+
+}
+.fc-text2{
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: -315px;
+    margin-bottom: 15px;
+    float: right;
+    background-color: rgb(204, 31, 31);
+    height: 300px;
+    width: 320px;
+
+}
+
+.notice{
+    margin-top: 210px;
+    margin-right: -300px;
+    border-radius: 15px;
+    
+    float: right;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(81, 96, 230);
+}
+button{
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
+.login{
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 00px;
+    border-radius: 15px;
+    float: right;
+    float: inline-end;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(7, 204, 106);
+}
+
+.home-img img{
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 500px;
+    width: 680px;
+    border-radius: 15px;
+}
+.photo-cap{
+    text-align: center;
+    margin-top: -505px;
+    margin-right: 315px;
+    border-radius: 15px;
+    float: right;
+    
+    height: 500px;
+    width: 490px;
+    background-color: rgb(36, 155, 211);
+    
+}
+.photo-cap p{
+    font-size: 18px;
+}
+h4{
+    background-color: rgb(219, 146, 10);
+    border-radius: 5px;
+      
+}
+.video-home{
+    text-align: center;
+    margin-top: 005px;
+    margin-right: 315px;
+    border-radius: 15px;
+    margin-left: 5px;
+    float: inline-start;
+    
+    height: 300px;
+    width: 490px;
+    background-color: rgb(154, 193, 211);
+    
+}
+
+.home-msg{
+    text-align: center;
+    margin-top: -300px;
+    
+    border-radius: 15px;
+    margin-left: 505px;
+    
+    
+    height: 300px;
+    width: 490px;
+    background-color: rgb(235, 16, 16);
+    
+}
+
+.home-results{
+    text-align: center;
+    margin-top: -300px;
+    float: right;
+    
+    border-radius: 15px;
+    margin-left: 0px;
+    
+    
+    height: 300px;
+    width: 490px;
+    background-color: rgb(18, 168, 56);
+    
+}
+.footer{
+    text-align: center;
+    margin-top: 15px;
+    color:  rgb(255, 255, 255);;
+    border-radius: 5px;
+    margin-left: 5px;
+    height: 150px;
+    width: auto;
+    background-color:  rgb(24, 3, 75);
+}
+a:link {
+    text-decoration: none;
+    background-color: #fc9803;
+    color: white;
+    padding: 7px 81px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+  }
+  a:hover, a:active {
+    background-color: rgb(231, 209, 6);
+    color: white;
+    
+  }
+
+.online{
+    width: 150px;
+    height: 60px;
+    background-color: rgb(250, 36, 8);
+    float: right;
+    margin-top: -100px;
+    margin-right:50px ;
+    margin-bottom:-30px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: rgb(218, 72, 15);
+    padding: 2px 5px;
+}
+input{
+    background-color: rgb(57, 117, 155);
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: sans-serif;
+}
+h3{
+    font-family: monospace;
+}
+button:hover{
+    background-color: rgb(155, 15, 5);
+    
+}
+.online-class{
+    text-align: center;
+    margin-top: -400px;
+    margin-right: 5px;
+    border-radius: 15px;
+    float: right;
+    float: inline-end;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(7, 204, 106);
+}

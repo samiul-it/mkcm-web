@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fees Calculator</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+
+   
+    <div class="heading">
+        <h1> MKCM Pilot Govt. High School</h1>
+        <h3> Susung Durgapur,Netrokona</h3>
+        <p>Ested 1918</p>
+        <div class="online">
+            <p> <strong>Online Addmission Going</strong></p>
+            <button type="submit">Click here to apply</button>
+        </div>
+        <hr>
+        <marquee>Best High School in Susang Durgapur, Netrakona
+            M.K.C.M Meaning is (M= Moharaja, K=Kumud, C=Chandra, M=Memorial) Pilot Govt. High School, Susang Durgapur, Netrakona, Bangladesh</marquee>
+            <hr>
+    </div>
+    <div class="navbar">
+        <div class="nav-bg">
+            
+            <a href="index.html">Home</a>
+            <a href="aboutus.html" >About US</a>
+            <a href="Mission.html"> Mission</a>
+            <a href="Mission.html"> Vision</a>
+            <a href="classes.html"> Classes</a>
+            <a href="facilities.html"> Facilities</a>
+            <a href="fees.html">Fees</a>
+        </div>
+    </div>
+
+    <div class="cal-details">
+        
+        <form name="fees">
+
+            <h2> Calculate Bus Fare:</h2>
+            <input type="number" name="distance">
+            <button type="submit" name="btn " onclick="fareCalculation()">Enter Distnace </button>
+            <h2> Calculate Tiffin Meal :</h2>
+            <input type="number" name="meal">
+            <button type="submit" name="btn " onclick="mealCalculation()">Enter Meal Days </button>
+
+
+            <h2> Other Fees</h2>
+            <ul>
+                <button type="submit" onclick="addFee()"> Addmission Fees</button>
+                <button type="submit" onclick="readdFee()"> Readdmission Fees</button>
+
+                <button type="submit"  >Pay Online</button>
+                
+            </ul>
+
+            
+        </form>
+        
+    </div>
+    
+    
+</body>
+</html>
